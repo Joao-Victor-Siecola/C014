@@ -1,0 +1,12 @@
+{
+  "name": "calculadora_project",
+  "version": "1.0.0",
+  "description": "Projeto de calculadora com testes unitários Jest",
+  "main": "calculadora.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
